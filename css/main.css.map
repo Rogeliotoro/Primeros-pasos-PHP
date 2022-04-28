@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAJL,OAAO;CAKrB",
+    "sources": [
+        "../formulario/scss/main.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
